@@ -1,0 +1,98 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\Arduino\\sketches\\SKUD2\\SQLSERVER\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{79FD91F8-9616-4A3F-8FD1-82FA115FF7E0}|SQLSERVER.vcxproj|D:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\Arduino\\sketches\\SKUD2\\SQLSERVER\\SQLSERVER.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{79FD91F8-9616-4A3F-8FD1-82FA115FF7E0}|SQLSERVER.vcxproj|solutionrelative:SQLSERVER.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79FD91F8-9616-4A3F-8FD1-82FA115FF7E0}|SQLSERVER.vcxproj|D:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\Arduino\\sketches\\SKUD2\\SQLSERVER\\SocketTCP.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{79FD91F8-9616-4A3F-8FD1-82FA115FF7E0}|SQLSERVER.vcxproj|solutionrelative:SocketTCP.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79FD91F8-9616-4A3F-8FD1-82FA115FF7E0}|SQLSERVER.vcxproj|D:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\Arduino\\sketches\\SKUD2\\SQLSERVER\\SocketTCP.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{79FD91F8-9616-4A3F-8FD1-82FA115FF7E0}|SQLSERVER.vcxproj|solutionrelative:SocketTCP.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79FD91F8-9616-4A3F-8FD1-82FA115FF7E0}|SQLSERVER.vcxproj|D:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\Arduino\\sketches\\SKUD2\\SQLSERVER\\DataBase.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{79FD91F8-9616-4A3F-8FD1-82FA115FF7E0}|SQLSERVER.vcxproj|solutionrelative:DataBase.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\__msvc_string_view.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "__msvc_string_view.hpp",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\__msvc_string_view.hpp",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\__msvc_string_view.hpp",
+              "ViewState": "AgIAAD4BAAAAAAAAAAAwwIMBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-01T11:08:52.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DataBase.h",
+              "DocumentMoniker": "D:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\Arduino\\sketches\\SKUD2\\SQLSERVER\\DataBase.h",
+              "RelativeDocumentMoniker": "DataBase.h",
+              "ToolTip": "D:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\Arduino\\sketches\\SKUD2\\SQLSERVER\\DataBase.h",
+              "RelativeToolTip": "DataBase.h",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAFMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-22T21:15:39.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SocketTCP.cpp",
+              "DocumentMoniker": "D:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\Arduino\\sketches\\SKUD2\\SQLSERVER\\SocketTCP.cpp",
+              "RelativeDocumentMoniker": "SocketTCP.cpp",
+              "ToolTip": "D:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\Arduino\\sketches\\SKUD2\\SQLSERVER\\SocketTCP.cpp",
+              "RelativeToolTip": "SocketTCP.cpp",
+              "ViewState": "AgIAAIIAAAAAAAAAAAAAAGMAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-22T18:44:57.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SocketTCP.h",
+              "DocumentMoniker": "D:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\Arduino\\sketches\\SKUD2\\SQLSERVER\\SocketTCP.h",
+              "RelativeDocumentMoniker": "SocketTCP.h",
+              "ToolTip": "D:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\Arduino\\sketches\\SKUD2\\SQLSERVER\\SocketTCP.h",
+              "RelativeToolTip": "SocketTCP.h",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-22T18:44:54.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SQLSERVER.cpp",
+              "DocumentMoniker": "D:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\Arduino\\sketches\\SKUD2\\SQLSERVER\\SQLSERVER.cpp",
+              "RelativeDocumentMoniker": "SQLSERVER.cpp",
+              "ToolTip": "D:\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\Arduino\\sketches\\SKUD2\\SQLSERVER\\SQLSERVER.cpp",
+              "RelativeToolTip": "SQLSERVER.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-22T18:44:11.151Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
